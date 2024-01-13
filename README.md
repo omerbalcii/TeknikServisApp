@@ -1,5 +1,5 @@
  Teknik Servis Uygulaması
-🎯 Aşağıdaki gereksinimler doğrultusunda Restful servis uygulaması Java Spring Boot, Spring Data JDBC, Spring Security, PostgreSql, , Swagger ve i18 kullanılarak geliştirilmiştir.
+🎯 Aşağıdaki gereksinimler doğrultusunda Restful servis uygulaması Java Spring Boot, Spring JDBC, Spring Security, PostgreSql,Swagger ve i18 kullanılarak geliştirilmiştir.
 
 
 #️⃣ Bilgisayar Teknik Servisi ve 2.El Satış Yönetim Uygulaması
